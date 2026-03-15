@@ -1,0 +1,12 @@
+.post{
+    background-color: beige;
+}
+.img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}
+.user{
+    font-style: italic;
+    color: crimson;
+}
